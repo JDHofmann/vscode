@@ -1,0 +1,35 @@
+{
+  "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#3fa25e",
+      "activityBar.activeBorder": "#6b47b8",
+      "activityBar.background": "#3fa25e",
+      "activityBar.foreground": "#e7e7e7",
+      "activityBar.inactiveForeground": "#e7e7e799",
+      "activityBarBadge.background": "#6b47b8",
+      "activityBarBadge.foreground": "#e7e7e7",
+      "statusBar.background": "#317d49",
+      "statusBar.foreground": "#e7e7e7",
+      "statusBarItem.hoverBackground": "#3fa25e",
+      "titleBar.activeBackground": "#317d49",
+      "titleBar.activeForeground": "#e7e7e7",
+      "titleBar.inactiveBackground": "#317d4999",
+      "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#317d49",
+  "prettier.htmlWhitespaceSensitivity": "strict",
+  "css.lint.boxModel": "warning",
+  "css.lint.duplicateProperties": "warning",
+  "css.lint.float": "warning",
+  "css.lint.idSelector": "warning",
+  "css.lint.universalSelector": "warning",
+  "css.lint.zeroUnits": "warning",
+  "eslint.format.enable": true,
+  "editor.formatOnSave": true,
+  "prettier.semi": false,
+  "prettier.requireConfig": true,
+  "editor.tabSize": 2,
+  "emmet.excludeLanguages": [
+  
+      "markdown"
+  ]
+}
